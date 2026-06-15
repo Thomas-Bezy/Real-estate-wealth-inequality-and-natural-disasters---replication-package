@@ -10,7 +10,7 @@ Results from the paper are in the `Figures` folder. Codes to replicate results a
 The codes require using Stata, R, SAS, and Python within QGIS.
 
 ## How to replicate results
-1. Download this repository.
+1. Download this repository and unzip the data folder.
 2. Obtain the restricted access data through the Centre d'Accès Sécurisé aux Données (CASD) and the Cerema website. Store these data in the `Data` folder.
 3. Download the maps of exposure from https://www.georisques.gouv.fr/donnees/bases-de-donnees/retrait-gonflement-des-argiles-version-2026 and https://www.georisques.gouv.fr/donnees/
 bases-de-donnees/zonages-inondation-rapportage-2020. Unzip them and put them in the Data folder.
